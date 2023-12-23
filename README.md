@@ -10,10 +10,10 @@ PlayStatus is an innovative overlay utility designed for gamers. It enhances you
 - **Customizable Notifications:** Choose when and how you get your updates.
 
 ## Reporting Issues
-If you encounter any bugs or issues with PlayStatus, please help us by reporting them. Check out our [Bug Report Template](#bug-report-template) for details on how to create a thorough report.
+If you encounter any bugs or issues with PlayStatus, please help us by reporting them. Check out our [Bug Report Template](./BugReport-Template.md) for details on how to create a thorough report.
 
 ## Suggesting Features
-Your ideas and suggestions are invaluable in making PlayStatus better! If you have a feature in mind that you'd like to see in future versions, please share it with us using the [Feature Request Template](#feature-request-template).
+Your ideas and suggestions are invaluable in making PlayStatus better! If you have a feature in mind that you'd like to see in future versions, please share it with us using the [Feature Request Template](./FeatureRequest-Template.md).
 
 ## Frequently Asked Questions (FAQs)
 1. **Controller not working in other games but appearing in PlayStatus?**
