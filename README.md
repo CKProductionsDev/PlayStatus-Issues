@@ -1,5 +1,7 @@
 # PlayStatus
 
+![](./Images/maincapsule.png)
+
 ## Introduction
 PlayStatus is an innovative overlay utility designed for gamers. It enhances your gaming experience by providing real-time updates on your controller's battery life and music playback details. Whether you're using a Dual Sense or Xbox controller, or listening to your favorite tunes on Spotify, YouTube, or Foobar2000, PlayStatus keeps you informed without intrusion.
 
@@ -9,11 +11,18 @@ PlayStatus is an innovative overlay utility designed for gamers. It enhances you
 - **Non-Intrusive Overlay:** Seamlessly integrates into your gaming experience without distractions.
 - **Customizable Notifications:** Choose when and how you get your updates.
 
+![](./Images/controller.gif)
+
+![](./Images/music.gif)
+
 ## Reporting Issues
 If you encounter any bugs or issues with PlayStatus, please help us by reporting them. Check out our [Bug Report Template](./BugReport-Template.md) for details on how to create a thorough report.
 
 ## Suggesting Features
 Your ideas and suggestions are invaluable in making PlayStatus better! If you have a feature in mind that you'd like to see in future versions, please share it with us using the [Feature Request Template](./FeatureRequest-Template.md).
+
+## Where can I get PlayStatus
+PlayStatus can be purchased through the Steam Store [here](https://store.steampowered.com/app/2752040).
 
 ## Frequently Asked Questions (FAQs)
 1. **Controller not working in other games but appearing in PlayStatus?**
