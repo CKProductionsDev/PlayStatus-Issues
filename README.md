@@ -27,6 +27,10 @@ PlayStatus can be purchased through the Steam Store [here](https://store.steampo
 ## Frequently Asked Questions (FAQs)
 1. **Controller not working in other games but appearing in PlayStatus?**
    - Ensure that Steam Input is enabled for PlayStatus by right-clicking the game in your Steam Library, going to Properties, then Controller, and ensuring Steam Input is enabled.
+   - Particularly for DualSense controllers, make sure that under Steam -> Settings -> Controller
+   that "Playstation Controller Support" is set to "Enabled in Games w/o Support."
+
+   ![](./Images/dualsenseconfig.png)
 
 2. **Will using PlayStatus get me flagged by Anti-Cheats?**
    - No, PlayStatus does not involve any kind of injection or memory reading. It's a transparent window that operates within the app's confines. It's 100% safe.
