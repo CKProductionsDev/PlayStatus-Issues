@@ -3,7 +3,7 @@
 ![](./Images/maincapsule.png)
 
 ## Introduction
-PlayStatus is an innovative overlay utility designed for gamers. It enhances your gaming experience by providing real-time updates on your controller's battery life and music playback details. Whether you're using a Dual Sense or Xbox controller, or listening to your favorite tunes on Spotify, YouTube, or Foobar2000, PlayStatus keeps you informed without intrusion.
+PlayStatus is an innovative overlay utility designed for gamers. It enhances your gaming experience by providing real-time updates on your controller's battery life and music playback details. Whether you're using a Dual Sense, Xbox or Nintendo Switch Pro controller, or listening to your favorite tunes on Spotify, YouTube, or Foobar2000, PlayStatus keeps you informed without intrusion.
 
 ## Key Features
 - **Controller Battery Monitoring:** Get real-time alerts for Dual Sense and Xbox controllers' battery status.
